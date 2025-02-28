@@ -228,7 +228,9 @@ git pull
      - Seed
    - Select model and image settings
 
-![ConfyUI_Image](https://github.com/MoAshour93/Open-WebUI-LLM-Fusion/blob/main/Images/Comfy%20UI%20Configuration%201.png)
+![ConfyUI_Image1](https://github.com/MoAshour93/Open-WebUI-LLM-Fusion/blob/main/Images/Comfy%20UI%20Configuration%201.png)
+
+![ConfyUI_Image2](https://github.com/MoAshour93/Open-WebUI-LLM-Fusion/blob/main/Images/Comfy%20UI%20Configuration%202.png)
 
 ## Deployment within Open WebUI
 
