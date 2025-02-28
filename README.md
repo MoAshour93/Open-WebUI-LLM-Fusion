@@ -2,7 +2,7 @@
 
 ![Open WebUI Banner](https://raw.githubusercontent.com/open-webui/open-webui/main/images/banner.png)
 
-A comprehensive guide to setting up Open WebUI with local models, cloud-based models, and image generation capabilities.
+A comprehensive guide for setting up Open WebUI with local models, cloud-based LLMs, and AI image generation capabilities. This beginner-friendly tutorial walks you through installation, configuration, and deployment of a complete AI interaction platform.
 
 ## 📑 Overview
 
@@ -27,6 +27,8 @@ This guide helps you set up Open WebUI, a user-friendly interface that allows yo
    - [Setting Up Image Generation](#activate-image-generation-within-open-webui-using-comfy-ui-api)
 4. [Testing & Deployment](#deployment-within-open-webui)
 5. [Resources](#resources)
+6. [About the Author](#about-the-author)
+7. [License](#license)
 
 ## Requirements
 
@@ -236,3 +238,25 @@ Helpful tutorial videos:
 - [Install Stable Diffusion on Comfy UI](https://www.youtube.com/watch?v=3-pQqJJgqy8)
 - [Install Flux on Comfy UI](https://www.youtube.com/watch?v=ImWHS5Ux36E)
 - [Run Comfy UI Workflows in Open WebUI](https://www.youtube.com/watch?v=t68_mYLnSG4)
+
+## About the Author
+
+This guide was created by Mohamed Ashour at APC Mastery Path.
+
+- 🌐 **Website**: [www.apcmasterypath.co.uk](https://www.apcmasterypath.co.uk)
+- 📝 **Blog Posts**: [APC Mastery Path Blog](https://www.apcmasterypath.co.uk/blog-list)
+- 👤 **Personal LinkedIn**: [Mohamed Ashour](https://www.linkedin.com/in/mohamed-ashour-0727/)
+- 🏢 **Company LinkedIn**: [APC Mastery Path](https://www.linkedin.com/company/apc-mastery-path)
+
+## License
+
+This guide is provided for educational and informational purposes. For specific licensing information and more detailed documentation, please refer to the official repositories:
+
+- [Open WebUI GitHub Repository](https://github.com/open-webui/open-webui)
+- [Comfy UI GitHub Repository](https://github.com/comfyanonymous/ComfyUI)
+
+Users are responsible for ensuring compliance with all licenses and terms of service for the software and models mentioned in this guide.
+
+---
+
+⭐ If you found this guide helpful, please consider starring this repository!
