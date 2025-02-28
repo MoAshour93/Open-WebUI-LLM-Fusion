@@ -207,6 +207,10 @@ git pull
    - Upload provider files from `pipelines/examples/pipelines/providers/`
    - Enter your API key for the chosen cloud provider
 
+(https://github.com/MoAshour93/Open-WebUI-LLM-Fusion/blob/main/Images/Pipelines%20Image%201.png)
+
+(https://github.com/MoAshour93/Open-WebUI-LLM-Fusion/blob/main/Images/Pipelines%20Image%202.png)
+
 ### Activate Image Generation within Open WebUI using ComfyUI API
 
 1. Start ComfyUI
@@ -224,6 +228,8 @@ git pull
      - Seed
    - Select model and image settings
 
+(https://github.com/MoAshour93/Open-WebUI-LLM-Fusion/blob/main/Images/Comfy%20UI%20Configuration%201.png)
+
 ## Deployment within Open WebUI
 
 Now you can:
@@ -231,6 +237,10 @@ Now you can:
 2. Select one of your configured models
 3. Use the LLM to write detailed image prompts
 4. Click the image icon under the LLM response to generate images via ComfyUI
+
+(https://github.com/MoAshour93/Open-WebUI-LLM-Fusion/blob/main/Images/Chat%20Image%201.png)
+
+(https://github.com/MoAshour93/Open-WebUI-LLM-Fusion/blob/main/Images/Chat%20Image%202.png)
 
 ## Resources
 
