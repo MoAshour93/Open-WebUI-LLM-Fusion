@@ -1,6 +1,6 @@
-# Open WebUI Setup Guide
+# Generate Images Locally in Open WebUI using Comfy UI + Integration with Cloud based models (Anthropic)
 
-![Open WebUI Banner](https://raw.githubusercontent.com/open-webui/open-webui/main/images/banner.png)
+![Open WebUI Banner](https://github.com/MoAshour93/Open-WebUI-LLM-Fusion/blob/main/Images/Github%20Repo%20Image.png)
 
 A comprehensive guide for setting up Open WebUI with local models, cloud-based LLMs, and AI image generation capabilities. This beginner-friendly tutorial walks you through installation, configuration, and deployment of a complete AI interaction platform.
 
